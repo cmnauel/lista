@@ -1,12 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORTS + FULL HD (ENCODER)" tvg-logo="https://dimayor.com.co/calendar_soluciones/menuDimayor/l56187c0rh.execute-api.us-east-1.amazonaws.com/win/WIN%20MAS.png" group-title="FUTBOL COLOMBIANO",WIN SPORTS + FULL HD (ENCODER)
 http://playhispano.org:25461/Eddiepremium/024686420/190193
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports | BOLIVIA 3" tvg-logo="http://playhispano.org:25461/images/59a5cd29a5fc779c01e37fc989dc52c2.png" group-title="MUNDO TIGO SPORTS",Tigo Sports | BOLIVIA 3
-http://playhispano.org:25461/Eddiepremium/024686420/195802
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports | BOLIVIA 1" tvg-logo="http://playhispano.org:25461/images/59a5cd29a5fc779c01e37fc989dc52c2.png" group-title="MUNDO TIGO SPORTS",Tigo Sports | BOLIVIA 1
-http://playhispano.org:25461/Eddiepremium/024686420/195803
-#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports | BOLIVIA 2" tvg-logo="http://playhispano.org:25461/images/59a5cd29a5fc779c01e37fc989dc52c2.png" group-title="MUNDO TIGO SPORTS",Tigo Sports | BOLIVIA 2
-http://playhispano.org:25461/Eddiepremium/024686420/195804
 #EXTINF:-1 tvg-id="historyhd.mx" tvg-name="LATINO| HISTORY CHANNEL PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://i.picasion.com/pic92/f80d806e267aa4d6986021e45379aea8.gif" group-title="LATINO DUAL AUDIO (FHD)",LATINO| HISTORY CHANNEL PREMIUN FHD (DUAL AUDIO)
 http://playhispano.org:25461/Eddiepremium/024686420/86844
 #EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="LATINO| DISCOVERY HOME & HEALT PREMIUN FHD (DUAL AUDIO)" tvg-logo="https://i.picasion.com/pic92/faf10db51834b400896db671f832e689.gif" group-title="LATINO DUAL AUDIO (FHD)",LATINO| DISCOVERY HOME & HEALT PREMIUN FHD (DUAL AUDIO)
@@ -531,52 +525,6 @@ http://playhispano.org:25461/Eddiepremium/024686420/124064
 http://playhispano.org:25461/Eddiepremium/024686420/124066
 #EXTINF:-1 tvg-id="" tvg-name="Latino | CNN en Espanol" tvg-logo="https://i.picasion.com/pic92/56e3c55755c86152df60d0e448a7bf7f.gif" group-title="NOTICIAS MUNDO ",Latino | CNN en Espanol
 http://playhispano.org:25461/Eddiepremium/024686420/124067
-#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 1 HD" tvg-logo="https://i.picasion.com/pic92/160bb24db80b6bcd6cc3f17cfe2888b3.gif" group-title="CINE| CINEMA PPV (LATINO)",CINE| CINEMA PPVV 1 HD
-http://playhispano.org:25461/Eddiepremium/024686420/126365
-#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 2 HD" tvg-logo="https://i.picasion.com/pic92/160bb24db80b6bcd6cc3f17cfe2888b3.gif" group-title="CINE| CINEMA PPV (LATINO)",CINE| CINEMA PPVV 2 HD
-http://playhispano.org:25461/Eddiepremium/024686420/126366
-#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 3 HD" tvg-logo="https://i.picasion.com/pic92/160bb24db80b6bcd6cc3f17cfe2888b3.gif" group-title="CINE| CINEMA PPV (LATINO)",CINE| CINEMA PPVV 3 HD
-http://playhispano.org:25461/Eddiepremium/024686420/126367
-#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 4 HD" tvg-logo="https://i.picasion.com/pic92/160bb24db80b6bcd6cc3f17cfe2888b3.gif" group-title="CINE| CINEMA PPV (LATINO)",CINE| CINEMA PPVV 4 HD
-http://playhispano.org:25461/Eddiepremium/024686420/126368
-#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 5 HD" tvg-logo="https://i.picasion.com/pic92/160bb24db80b6bcd6cc3f17cfe2888b3.gif" group-title="CINE| CINEMA PPV (LATINO)",CINE| CINEMA PPVV 5 HD
-http://playhispano.org:25461/Eddiepremium/024686420/126369
-#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 7 HD" tvg-logo="https://i.picasion.com/pic92/160bb24db80b6bcd6cc3f17cfe2888b3.gif" group-title="CINE| CINEMA PPV (LATINO)",CINE| CINEMA PPVV 7 HD
-http://playhispano.org:25461/Eddiepremium/024686420/126370
-#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 8 HD" tvg-logo="https://i.picasion.com/pic92/160bb24db80b6bcd6cc3f17cfe2888b3.gif" group-title="CINE| CINEMA PPV (LATINO)",CINE| CINEMA PPVV 8 HD
-http://playhispano.org:25461/Eddiepremium/024686420/126371
-#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 9 HD" tvg-logo="https://i.picasion.com/pic92/160bb24db80b6bcd6cc3f17cfe2888b3.gif" group-title="CINE| CINEMA PPV (LATINO)",CINE| CINEMA PPVV 9 HD
-http://playhispano.org:25461/Eddiepremium/024686420/126372
-#EXTINF:-1 tvg-id="" tvg-name="CINE| CINEMA PPVV 10 HD" tvg-logo="https://i.picasion.com/pic92/160bb24db80b6bcd6cc3f17cfe2888b3.gif" group-title="CINE| CINEMA PPV (LATINO)",CINE| CINEMA PPVV 10 HD
-http://playhispano.org:25461/Eddiepremium/024686420/126373
-#EXTINF:-1 tvg-id="" tvg-name="Ultra Familia" tvg-logo="https://i.picasion.com/pic92/4b731299b5d182be0a9d5107eed4ef2d.gif" group-title="CINE LATINO /LATIN CINEMA (HD)",Ultra Familia
-http://playhispano.org:25461/Eddiepremium/024686420/128005
-#EXTINF:-1 tvg-id="" tvg-name="Universal Crime Este" tvg-logo="https://i.picasion.com/pic92/8f9be8e7660997999705d581b066905b.gif" group-title="CANALES DE CRIMEN (FHD)",Universal Crime Este
-http://playhispano.org:25461/Eddiepremium/024686420/128012
-#EXTINF:-1 tvg-id="" tvg-name="Universal Premiere" tvg-logo="https://i.picasion.com/pic92/8dd9e71b8bb70d196a1e43b1d86b4231.gif" group-title="CINE LATINO /LATIN CINEMA (HD)",Universal Premiere
-http://playhispano.org:25461/Eddiepremium/024686420/128013
-#EXTINF:-1 tvg-id="" tvg-name="Universal Reality" tvg-logo="https://i.picasion.com/pic92/27cc030bc39646da490505d235cb7cd9.gif" group-title="CINE LATINO /LATIN CINEMA (HD)",Universal Reality
-http://playhispano.org:25461/Eddiepremium/024686420/128014
-#EXTINF:-1 tvg-id="" tvg-name="Universal Cinema" tvg-logo="https://i.picasion.com/pic92/d34a8c1212e31357ec7064d3aee92eb7.gif" group-title="CINE LATINO /LATIN CINEMA (HD)",Universal Cinema
-http://playhispano.org:25461/Eddiepremium/024686420/128015
-#EXTINF:-1 tvg-id="" tvg-name="Universal Crime Oeste" tvg-logo="https://i.picasion.com/pic92/8f9be8e7660997999705d581b066905b.gif" group-title="CANALES DE CRIMEN (FHD)",Universal Crime Oeste
-http://playhispano.org:25461/Eddiepremium/024686420/128016
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 1 HD" tvg-logo="http://boxdigital.xyz:8080/images/f98d1ef0fc968cd311222ff9ae46d685.png" group-title="ALQUILER CINEMA (UTH)",ALQUILER 1 HD
-http://playhispano.org:25461/Eddiepremium/024686420/130136
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 3 HD" tvg-logo="http://iptvglobal.site:25461/images/86186d7e17cf81cfcc551999633eb9f2.png" group-title="ALQUILER CINEMA (UTH)",ALQUILER 3 HD
-http://playhispano.org:25461/Eddiepremium/024686420/130137
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 4 HD" tvg-logo="http://iptvglobal.site:25461/images/86186d7e17cf81cfcc551999633eb9f2.png" group-title="ALQUILER CINEMA (UTH)",ALQUILER 4 HD
-http://playhispano.org:25461/Eddiepremium/024686420/130138
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 5 HD" tvg-logo="http://iptvglobal.site:25461/images/86186d7e17cf81cfcc551999633eb9f2.png" group-title="ALQUILER CINEMA (UTH)",ALQUILER 5 HD
-http://playhispano.org:25461/Eddiepremium/024686420/130139
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 6 HD" tvg-logo="http://iptvglobal.site:25461/images/86186d7e17cf81cfcc551999633eb9f2.png" group-title="ALQUILER CINEMA (UTH)",ALQUILER 6 HD
-http://playhispano.org:25461/Eddiepremium/024686420/130140
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 7 HD" tvg-logo="http://iptvglobal.site:25461/images/86186d7e17cf81cfcc551999633eb9f2.png" group-title="ALQUILER CINEMA (UTH)",ALQUILER 7 HD
-http://playhispano.org:25461/Eddiepremium/024686420/130141
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 8 HD" tvg-logo="http://iptvglobal.site:25461/images/86186d7e17cf81cfcc551999633eb9f2.png" group-title="ALQUILER CINEMA (UTH)",ALQUILER 8 HD
-http://playhispano.org:25461/Eddiepremium/024686420/130142
-#EXTINF:-1 tvg-id="" tvg-name="ALQUILER 10 HD" tvg-logo="http://iptvglobal.site:25461/images/86186d7e17cf81cfcc551999633eb9f2.png" group-title="ALQUILER CINEMA (UTH)",ALQUILER 10 HD
-http://playhispano.org:25461/Eddiepremium/024686420/130144
 #EXTINF:-1 tvg-id="" tvg-name="PREM (FHD): AMC EAST" tvg-logo="http://iptvglobal.site:25461/images/d3794d5eb2f0f11a02779b8ea01f3d59.png" group-title="LATINOS FHD/LATIN (FHD)",PREM (FHD): AMC EAST
 http://playhispano.org:25461/Eddiepremium/024686420/130327
 #EXTINF:-1 tvg-id="" tvg-name="PREM (FHD): CINECANAL EAST" tvg-logo="http://iptvglobal.site:25461/images/a705125c6c549d77c93cb41a143c7ff8.png" group-title="LATINOS FHD/LATIN (FHD)",PREM (FHD): CINECANAL EAST
@@ -905,30 +853,6 @@ http://playhispano.org:25461/Eddiepremium/024686420/86223
 http://playhispano.org:25461/Eddiepremium/024686420/86226
 #EXTINF:-1 tvg-id="" tvg-name="Fantastic Beasts: A Natural History (2022)" tvg-logo="http://playhispano.org:25461/images/00e6fb20099aefe347e1ceb137156884.jpg" group-title="DOCUMENTALES (FHD)",Fantastic Beasts: A Natural History (2022)
 http://playhispano.org:25461/movie/Eddiepremium/024686420/112733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="SCRIPT SCRIPT Animal Planet" tvg-logo="" group-title="Documentales/LATIN DOCUMENTARY (HD)",SCRIPT SCRIPT Animal Planet
-http://playhispano.org:25461/Eddiepremium/024686420/192348
-#EXTINF:-1 tvg-id="" tvg-name="SCRIPT Discovery Channel" tvg-logo="" group-title="Documentales/LATIN DOCUMENTARY (HD)",SCRIPT Discovery Channel
-http://playhispano.org:25461/Eddiepremium/024686420/192349
-#EXTINF:-1 tvg-id="" tvg-name="SCRIPT Discovery H&h" tvg-logo="" group-title="Documentales/LATIN DOCUMENTARY (HD)",SCRIPT Discovery H&h
-http://playhispano.org:25461/Eddiepremium/024686420/192350
-#EXTINF:-1 tvg-id="" tvg-name="SCRIPT Discovery Science" tvg-logo="" group-title="Documentales/LATIN DOCUMENTARY (HD)",SCRIPT Discovery Science
-http://playhispano.org:25461/Eddiepremium/024686420/192351
-#EXTINF:-1 tvg-id="" tvg-name="SCRIPTDiscovery Theater" tvg-logo="" group-title="Documentales/LATIN DOCUMENTARY (HD)",SCRIPTDiscovery Theater
-http://playhispano.org:25461/Eddiepremium/024686420/192352
-#EXTINF:-1 tvg-id="" tvg-name="SCRIPTDiscovery Tlc" tvg-logo="" group-title="Documentales/LATIN DOCUMENTARY (HD)",SCRIPTDiscovery Tlc
-http://playhispano.org:25461/Eddiepremium/024686420/192353
-#EXTINF:-1 tvg-id="" tvg-name="SCRIPTDiscovery Turbo" tvg-logo="" group-title="Documentales/LATIN DOCUMENTARY (HD)",SCRIPTDiscovery Turbo
-http://playhispano.org:25461/Eddiepremium/024686420/192354
-#EXTINF:-1 tvg-id="" tvg-name="SCRIPTDiscovery World" tvg-logo="" group-title="Documentales/LATIN DOCUMENTARY (HD)",SCRIPTDiscovery World
-http://playhispano.org:25461/Eddiepremium/024686420/192355
-#EXTINF:-1 tvg-id="" tvg-name="SCRIPTH2" tvg-logo="" group-title="Documentales/LATIN DOCUMENTARY (HD)",SCRIPTH2
-http://playhispano.org:25461/Eddiepremium/024686420/192356
-#EXTINF:-1 tvg-id="" tvg-name="SCRIPTHgtv" tvg-logo="" group-title="Documentales/LATIN DOCUMENTARY (HD)",SCRIPTHgtv
-http://playhispano.org:25461/Eddiepremium/024686420/192357
-#EXTINF:-1 tvg-id="" tvg-name="SCRIPTHistory" tvg-logo="" group-title="Documentales/LATIN DOCUMENTARY (HD)",SCRIPTHistory
-http://playhispano.org:25461/Eddiepremium/024686420/192358
-#EXTINF:-1 tvg-id="" tvg-name="SCRIPTNatgeo" tvg-logo="" group-title="Documentales/LATIN DOCUMENTARY (HD)",SCRIPTNatgeo
-http://playhispano.org:25461/Eddiepremium/024686420/192360
 #EXTINF:-1 tvg-id="" tvg-name="KIDS| PANDA HD" tvg-logo="https://i.picasion.com/pic92/3f89bd55a4782e095e6d3f255ea7f13b.gif" group-title="INFANTILES/KIDS (ESP)",KIDS| PANDA HD
 http://playhispano.org:25461/Eddiepremium/024686420/86389
 #EXTINF:-1 tvg-id="" tvg-name="KIDS| NICKELODEON FHD" tvg-logo="https://i.picasion.com/pic92/1f41d42e044c4d719980ac69a67cd6a5.gif" group-title="INFANTILES/KIDS (ESP)",KIDS| NICKELODEON FHD
@@ -1091,294 +1015,6 @@ http://playhispano.org:25461/Eddiepremium/024686420/192289
 http://playhispano.org:25461/Eddiepremium/024686420/192290
 #EXTINF:-1 tvg-id="" tvg-name="LIGA COLOMBIA: WIN SPORTS + (OPC 2)" tvg-logo="http://playhispano.org:25461/images/7ef7e64382407c66368426336ddaaa39.png" group-title="LIGAS DE FÚTBOL LATINOAMÉRICA",LIGA COLOMBIA: WIN SPORTS + (OPC 2)
 http://playhispano.org:25461/Eddiepremium/024686420/192291
-#EXTINF:-1 tvg-id="" tvg-name="LIVE XXX 1" tvg-logo="https://i.picasion.com/pic91/d84c8a4d873188b822129825bccd0fd7.gif" group-title="CAMS (LIVE XXX )",LIVE XXX 1
-http://playhispano.org:25461/Eddiepremium/024686420/70784
-#EXTINF:-1 tvg-id="" tvg-name="LIVE XXX 2" tvg-logo="https://i.picasion.com/pic91/d84c8a4d873188b822129825bccd0fd7.gif" group-title="CAMS (LIVE XXX )",LIVE XXX 2
-http://playhispano.org:25461/Eddiepremium/024686420/70785
-#EXTINF:-1 tvg-id="" tvg-name="LIVE XXX 3" tvg-logo="https://i.picasion.com/pic91/d84c8a4d873188b822129825bccd0fd7.gif" group-title="CAMS (LIVE XXX )",LIVE XXX 3
-http://playhispano.org:25461/Eddiepremium/024686420/70786
-#EXTINF:-1 tvg-id="" tvg-name="LIVE XXX 4" tvg-logo="https://i.picasion.com/pic91/d84c8a4d873188b822129825bccd0fd7.gif" group-title="CAMS (LIVE XXX )",LIVE XXX 4
-http://playhispano.org:25461/Eddiepremium/024686420/70787
-#EXTINF:-1 tvg-id="" tvg-name="LIVE XXX 5" tvg-logo="https://i.picasion.com/pic91/d84c8a4d873188b822129825bccd0fd7.gif" group-title="CAMS (LIVE XXX )",LIVE XXX 5
-http://playhispano.org:25461/Eddiepremium/024686420/70788
-#EXTINF:-1 tvg-id="" tvg-name="LIVE XXX 6" tvg-logo="https://i.picasion.com/pic91/d84c8a4d873188b822129825bccd0fd7.gif" group-title="CAMS (LIVE XXX )",LIVE XXX 6
-http://playhispano.org:25461/Eddiepremium/024686420/70789
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Anal (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Anal (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71281
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Asian (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Asian (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71282
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Ass (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Big Ass (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71283
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Dick (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Big Dick (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71284
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Big Tits (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Big Tits (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71285
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blonde (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Blonde (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71286
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Blowjob (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Blowjob (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71287
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Brunette (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Brunette (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71288
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Compilation (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Compilation (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71289
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Cuckold (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Cuckold (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71290
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Fetish (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Fetish (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71291
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gangbang (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Gangbang (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71292
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Gay (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Gay (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71293
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Hardcore (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Hardcore (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71294
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Interracial (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Interracial (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71295
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Latina (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Latina (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71296
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Lesbian (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Lesbian (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71297
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Live Cams (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Live Cams (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71298
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net MILF (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net MILF (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71299
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Pornstar (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Pornstar (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71300
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net POV (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net POV (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71301
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Rough (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Rough (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71302
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Russian (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Russian (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71303
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Teen (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Teen (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71304
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Threesome (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Threesome (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71305
-#EXTINF:-1 tvg-id="" tvg-name="AdultIPTV.net Woman (720p)" tvg-logo="" group-title="ADULTS CON PUBLICIDA",AdultIPTV.net Woman (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71306
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV Midnite Secrets (1080p)" tvg-logo="https://static.iptv-epg.com/fr/FashionTV.fr.png" group-title="ADULTS CON PUBLICIDA",Fashion TV Midnite Secrets (1080p)
-http://playhispano.org:25461/Eddiepremium/024686420/71309
-#EXTINF:-1 tvg-id="" tvg-name="Fashion TV Midnite Secrets" tvg-logo="" group-title="ADULTS CON PUBLICIDA",Fashion TV Midnite Secrets
-http://playhispano.org:25461/Eddiepremium/024686420/71310
-#EXTINF:-1 tvg-id="" tvg-name="Rouge TV (720p)" tvg-logo="https://od.lk/s/MF8yMjYwNDgzMzhf/RougeTV_225x225.png" group-title="ADULTS CON PUBLICIDA",Rouge TV (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71316
-#EXTINF:-1 tvg-id="" tvg-name="Visit-X TV (720p)" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="ADULTS CON PUBLICIDA",Visit-X TV (720p)
-http://playhispano.org:25461/Eddiepremium/024686420/71317
-#EXTINF:-1 tvg-id="" tvg-name="Visit-X TV (360p)" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="ADULTS CON PUBLICIDA",Visit-X TV (360p)
-http://playhispano.org:25461/Eddiepremium/024686420/71318
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| XY PLUS HD" tvg-logo="http://miarea.vip:8080/images/7477e36dd56c6cb16b6a897a06828310.png" group-title="ADULTO SIN PUBLICIDA",ADULT| XY PLUS HD
-http://playhispano.org:25461/Eddiepremium/024686420/113320
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| XY MAX XXX HD" tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6261.1471157192.png" group-title="ADULTO SIN PUBLICIDA",ADULT| XY MAX XXX HD
-http://playhispano.org:25461/Eddiepremium/024686420/113321
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| XY MIX XXX HD" tvg-logo="http://iptvglobal.site:25461/images/93eaa10d40f753679080312f2782c43e.png" group-title="ADULTO SIN PUBLICIDA",ADULT| XY MIX XXX HD
-http://playhispano.org:25461/Eddiepremium/024686420/113322
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| X1 XXX HD" tvg-logo="https://xxxpornsex.tv/wp-content/uploads/2019/04/vlcsnap-2019-04-26-00h20m48s112.png" group-title="ADULTO SIN PUBLICIDA",ADULT| X1 XXX HD
-http://playhispano.org:25461/Eddiepremium/024686420/113323
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| SUPERONE HD" tvg-logo="http://iptvglobal.site:25461/images/27e9e0d4de1433b898d48b822b5cade7.png" group-title="ADULTO SIN PUBLICIDA",ADULT| SUPERONE HD
-http://playhispano.org:25461/Eddiepremium/024686420/113324
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| ALBA XXX HD" tvg-logo="http://iptvglobal.site:25461/images/d6ad72087c9b598182b2446c06fc53e8.png" group-title="ADULTO SIN PUBLICIDA",ADULT| ALBA XXX HD
-http://playhispano.org:25461/Eddiepremium/024686420/113325
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| ALBA XXX 4 HD" tvg-logo="http://iptvglobal.site:25461/images/844a2a1b10989413257527d169ebdf80.png" group-title="ADULTO SIN PUBLICIDA",ADULT| ALBA XXX 4 HD
-http://playhispano.org:25461/Eddiepremium/024686420/113326
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| ALBA XXX 5 HD" tvg-logo="http://iptvglobal.site:25461/images/394677cef9c1c7df6b024fca454c4951.png" group-title="ADULTO SIN PUBLICIDA",ADULT| ALBA XXX 5 HD
-http://playhispano.org:25461/Eddiepremium/024686420/113327
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| STARS XXX HD" tvg-logo="https://iptv.live/images/logo/channel/crops/509e2b44b6961c54186eb566f1e71014.png" group-title="ADULTO SIN PUBLICIDA",ADULT| STARS XXX HD
-http://playhispano.org:25461/Eddiepremium/024686420/113328
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| EMANUELLE XXX" tvg-logo="https://w7.pngwing.com/pngs/445/100/png-transparent-emmanuel-tv-television-channel-satellite-television-streaming-media-blue-logo.png" group-title="ADULTO SIN PUBLICIDA",ADULT| EMANUELLE XXX
-http://playhispano.org:25461/Eddiepremium/024686420/113329
-#EXTINF:-1 tvg-id="" tvg-name="Pornstar" tvg-logo="" group-title="ADULTS CON PUBLICIDA",Pornstar
-http://playhispano.org:25461/Eddiepremium/024686420/117704
-#EXTINF:-1 tvg-id="" tvg-name="Latina" tvg-logo="" group-title="ADULTS CON PUBLICIDA",Latina
-http://playhispano.org:25461/Eddiepremium/024686420/117707
-#EXTINF:-1 tvg-id="" tvg-name="Hardcore" tvg-logo="" group-title="ADULTS CON PUBLICIDA",Hardcore
-http://playhispano.org:25461/Eddiepremium/024686420/117711
-#EXTINF:-1 tvg-id="" tvg-name="Lesbian" tvg-logo="" group-title="ADULTS CON PUBLICIDA",Lesbian
-http://playhispano.org:25461/Eddiepremium/024686420/117715
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic Cuckold HD 720" tvg-logo="" group-title="ADULTS CON PUBLICIDA",RedTraffic Cuckold HD 720
-http://playhispano.org:25461/Eddiepremium/024686420/117743
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic Fetish HD 720" tvg-logo="" group-title="ADULTS CON PUBLICIDA",RedTraffic Fetish HD 720
-http://playhispano.org:25461/Eddiepremium/024686420/117744
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic Hardcore HD 720" tvg-logo="" group-title="ADULTS CON PUBLICIDA",RedTraffic Hardcore HD 720
-http://playhispano.org:25461/Eddiepremium/024686420/117745
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic Latina HD 720" tvg-logo="" group-title="ADULTS CON PUBLICIDA",RedTraffic Latina HD 720
-http://playhispano.org:25461/Eddiepremium/024686420/117747
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic Lesbian HD 720" tvg-logo="" group-title="ADULTS CON PUBLICIDA",RedTraffic Lesbian HD 720
-http://playhispano.org:25461/Eddiepremium/024686420/117748
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic Pornstar HD 720" tvg-logo="" group-title="ADULTS CON PUBLICIDA",RedTraffic Pornstar HD 720
-http://playhispano.org:25461/Eddiepremium/024686420/117750
-#EXTINF:-1 tvg-id="" tvg-name="RedTraffic Russian HD 720" tvg-logo="" group-title="ADULTS CON PUBLICIDA",RedTraffic Russian HD 720
-http://playhispano.org:25461/Eddiepremium/024686420/117752
-#EXTINF:-1 tvg-id="" tvg-name="Babestation24" tvg-logo="http://iptvglobal.site:25461/images/ee16d9e045204bef6d85324ec6b6d265.png" group-title="ADULTS CON PUBLICIDA",Babestation24
-http://playhispano.org:25461/Eddiepremium/024686420/128934
-#EXTINF:-1 tvg-id="" tvg-name="Miami TV Jenny Live" tvg-logo="http://iptvglobal.site:25461/images/869e4e5fe96c61dc21e63c4a86ea81da.png" group-title="ADULTS CON PUBLICIDA",Miami TV Jenny Live
-http://playhispano.org:25461/Eddiepremium/024686420/128937
-#EXTINF:-1 tvg-id="" tvg-name="Miami TV México" tvg-logo="http://iptvglobal.site:25461/images/2727a9e8a4b7f0f252b628be05c0f3d1.jpg" group-title="ADULTS CON PUBLICIDA",Miami TV México
-http://playhispano.org:25461/Eddiepremium/024686420/128939
-#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Anal" tvg-logo="http://iptvglobal.site:25461/images/ffab66bd9682ec2ea06c3eabefd68603.png" group-title="ADULTS CON PUBLICIDA",MyCamTV Anal
-http://playhispano.org:25461/Eddiepremium/024686420/128941
-#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Asian" tvg-logo="http://iptvglobal.site:25461/images/ffab66bd9682ec2ea06c3eabefd68603.png" group-title="ADULTS CON PUBLICIDA",MyCamTV Asian
-http://playhispano.org:25461/Eddiepremium/024686420/128942
-#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Big Ass" tvg-logo="http://iptvglobal.site:25461/images/ffab66bd9682ec2ea06c3eabefd68603.png" group-title="ADULTS CON PUBLICIDA",MyCamTV Big Ass
-http://playhispano.org:25461/Eddiepremium/024686420/128943
-#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Big Tits" tvg-logo="http://iptvglobal.site:25461/images/ffab66bd9682ec2ea06c3eabefd68603.png" group-title="ADULTS CON PUBLICIDA",MyCamTV Big Tits
-http://playhispano.org:25461/Eddiepremium/024686420/128944
-#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Blonde" tvg-logo="http://iptvglobal.site:25461/images/ffab66bd9682ec2ea06c3eabefd68603.png" group-title="ADULTS CON PUBLICIDA",MyCamTV Blonde
-http://playhispano.org:25461/Eddiepremium/024686420/128945
-#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Brunette" tvg-logo="http://iptvglobal.site:25461/images/ffab66bd9682ec2ea06c3eabefd68603.png" group-title="ADULTS CON PUBLICIDA",MyCamTV Brunette
-http://playhispano.org:25461/Eddiepremium/024686420/128946
-#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Ebony" tvg-logo="http://iptvglobal.site:25461/images/ffab66bd9682ec2ea06c3eabefd68603.png" group-title="ADULTS CON PUBLICIDA",MyCamTV Ebony
-http://playhispano.org:25461/Eddiepremium/024686420/128947
-#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Latina" tvg-logo="http://iptvglobal.site:25461/images/ffab66bd9682ec2ea06c3eabefd68603.png" group-title="ADULTS CON PUBLICIDA",MyCamTV Latina
-http://playhispano.org:25461/Eddiepremium/024686420/128948
-#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Skinny" tvg-logo="http://iptvglobal.site:25461/images/ffab66bd9682ec2ea06c3eabefd68603.png" group-title="ADULTS CON PUBLICIDA",MyCamTV Skinny
-http://playhispano.org:25461/Eddiepremium/024686420/128949
-#EXTINF:-1 tvg-id="" tvg-name="MyCamTV Squirt" tvg-logo="http://iptvglobal.site:25461/images/ffab66bd9682ec2ea06c3eabefd68603.png" group-title="ADULTS CON PUBLICIDA",MyCamTV Squirt
-http://playhispano.org:25461/Eddiepremium/024686420/128950
-#EXTINF:-1 tvg-id="" tvg-name="MyCamTV White" tvg-logo="http://iptvglobal.site:25461/images/ffab66bd9682ec2ea06c3eabefd68603.png" group-title="ADULTS CON PUBLICIDA",MyCamTV White
-http://playhispano.org:25461/Eddiepremium/024686420/128951
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) O-LA-LA" tvg-logo="http://hochu.tv/images/o-la-la.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) O-LA-LA
-http://playhispano.org:25461/Eddiepremium/024686420/150599
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) HUSTLER HD" tvg-logo="http://www.skytvpluzz.online:8000/images/6a3519bc08c035048793d0544a7eacd1.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) HUSTLER HD
-http://playhispano.org:25461/Eddiepremium/024686420/150600
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) HUSTLER TV" tvg-logo="http://www.skytvpluzz.online:8000/images/88af5551a36726f236a5abf918e8e30b.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) HUSTLER TV
-http://playhispano.org:25461/Eddiepremium/024686420/150601
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) PRIVATE TV" tvg-logo="http://www.skytvpluzz.online:8000/images/8387add282c7477f157468c69851dc7e.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) PRIVATE TV
-http://playhispano.org:25461/Eddiepremium/024686420/150602
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) REDLIGHT HD" tvg-logo="http://www.skytvpluzz.online:8000/images/191596c6537de1cc9519763a577819a4.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) REDLIGHT HD
-http://playhispano.org:25461/Eddiepremium/024686420/150603
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) BLUE HUSTLER" tvg-logo="http://www.skytvpluzz.online:8000/images/c0aa870b10d22680b1dc15809d8a7ffa.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) BLUE HUSTLER
-http://playhispano.org:25461/Eddiepremium/024686420/150604
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) VIVID RED" tvg-logo="http://www.skytvpluzz.online:8000/images/1954e891aed8b6db79cc8cc590b3ffe1.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) VIVID RED
-http://playhispano.org:25461/Eddiepremium/024686420/150606
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) FAP TV 2" tvg-logo="http://www.skytvpluzz.online:8000/images/bd14660efdd7d896c88dba13127879a9.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) FAP TV 2
-http://playhispano.org:25461/Eddiepremium/024686420/150607
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) FAP TV 3" tvg-logo="http://www.skytvpluzz.online:8000/images/9914a5d2fcb9f2d35574c42e62be1133.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) FAP TV 3
-http://playhispano.org:25461/Eddiepremium/024686420/150608
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) FAP TV 4" tvg-logo="http://www.skytvpluzz.online:8000/images/afb5375e5c789c90ec778f01593da5ba.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) FAP TV 4
-http://playhispano.org:25461/Eddiepremium/024686420/150609
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) EROX HD" tvg-logo="http://www.skytvpluzz.online:8000/images/ee00fb8e94e5feb34422441535b01e4a.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) EROX HD
-http://playhispano.org:25461/Eddiepremium/024686420/150611
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) PENTHOUSE HD 2" tvg-logo="http://www.skytvpluzz.online:8000/images/ba63e9fbb3e9eb2c6edeaa23774612a1.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) PENTHOUSE HD 2
-http://playhispano.org:25461/Eddiepremium/024686420/150612
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) FAP TV ANAL" tvg-logo="http://www.skytvpluzz.online:8000/images/886d176a040a621544286c1d70d1a2fe.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) FAP TV ANAL
-http://playhispano.org:25461/Eddiepremium/024686420/150613
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) FAP TV PARODY" tvg-logo="http://www.skytvpluzz.online:8000/images/042c828620caf5db8a703b605db6ae73.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) FAP TV PARODY
-http://playhispano.org:25461/Eddiepremium/024686420/150614
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) FAP TV TEENS" tvg-logo="http://www.skytvpluzz.online:8000/images/74a4964ecfbc39c889fa53879326b7a6.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) FAP TV TEENS
-http://playhispano.org:25461/Eddiepremium/024686420/150615
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) FAP TV LESBIAN" tvg-logo="http://www.skytvpluzz.online:8000/images/5c7f4695f55440a521e6a9d0f3383ec0.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) FAP TV LESBIAN
-http://playhispano.org:25461/Eddiepremium/024686420/150616
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) FAP TV COMPILATION" tvg-logo="http://www.skytvpluzz.online:8000/images/9f8a8ad5a321b92418a9db3b62f4c0e6.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) FAP TV COMPILATION
-http://playhispano.org:25461/Eddiepremium/024686420/150617
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) HUSTLER TV" tvg-logo="http://www.skytvpluzz.online:8000/images/88af5551a36726f236a5abf918e8e30b.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) HUSTLER TV
-http://playhispano.org:25461/Eddiepremium/024686420/150618
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) PRIVATE TV" tvg-logo="http://www.skytvpluzz.online:8000/images/8387add282c7477f157468c69851dc7e.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) PRIVATE TV
-http://playhispano.org:25461/Eddiepremium/024686420/150619
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) REDLIGHT HD" tvg-logo="http://www.skytvpluzz.online:8000/images/191596c6537de1cc9519763a577819a4.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) REDLIGHT HD
-http://playhispano.org:25461/Eddiepremium/024686420/150620
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) BLUE HUSTLER" tvg-logo="http://www.skytvpluzz.online:8000/images/c0aa870b10d22680b1dc15809d8a7ffa.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) BLUE HUSTLER
-http://playhispano.org:25461/Eddiepremium/024686420/150621
-#EXTINF:-1 tvg-id="" tvg-name="(ONLINE) VIVID RED" tvg-logo="http://www.skytvpluzz.online:8000/images/1954e891aed8b6db79cc8cc590b3ffe1.png" group-title="ADULTO SIN PUBLICIDA",(ONLINE) VIVID RED
-http://playhispano.org:25461/Eddiepremium/024686420/150623
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| MIAMI TV ADULT" tvg-logo="http://miarea.vip:8080/images/6ef3951ab0c30fb9990ea9f87ac615aa.png" group-title="ADULTO SIN PUBLICIDA",ADULT| MIAMI TV ADULT
-http://playhispano.org:25461/Eddiepremium/024686420/150624
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| MONEY TALK HD" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="ADULTO SIN PUBLICIDA",ADULT| MONEY TALK HD
-http://playhispano.org:25461/Eddiepremium/024686420/150627
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| DANCING BEAR HD" tvg-logo="http://iptvglobal.site:25461/images/5ab52cce2dd916ceded6b270b6693ed6.png" group-title="ADULTO SIN PUBLICIDA",ADULT| DANCING BEAR HD
-http://playhispano.org:25461/Eddiepremium/024686420/150633
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| SEXTREME HD" tvg-logo="http://iptvglobal.site:25461/images/ed8fb69ad0b5b66af67fb00d9cbcf2c8.png" group-title="ADULTO SIN PUBLICIDA",ADULT| SEXTREME HD
-http://playhispano.org:25461/Eddiepremium/024686420/150634
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| XXL HD" tvg-logo="http://iptvglobal.site:25461/images/fc37dc2ce166bb9a1c3d2f2765076683.png" group-title="ADULTO SIN PUBLICIDA",ADULT| XXL HD
-http://playhispano.org:25461/Eddiepremium/024686420/150635
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| PRIVE TV HD" tvg-logo="https://iptv.live/images/logo/channel/crops/5f41af4442b2ef10ace27cc1da1f6180.png" group-title="ADULTO SIN PUBLICIDA",ADULT| PRIVE TV HD
-http://playhispano.org:25461/Eddiepremium/024686420/150636
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| DORCEL XXX HD" tvg-logo="http://iptvglobal.site:25461/images/f7ec3c5d48ee4f6fc99bb88800c06bac.png" group-title="ADULTO SIN PUBLICIDA",ADULT| DORCEL XXX HD
-http://playhispano.org:25461/Eddiepremium/024686420/150637
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| EXTASIS HD" tvg-logo="http://iptvglobal.site:25461/images/836af3bb45e14ffd0f7bd42128b04025.png" group-title="ADULTO SIN PUBLICIDA",ADULT| EXTASIS HD
-http://playhispano.org:25461/Eddiepremium/024686420/150638
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| SECRET CIRCLE TV HD" tvg-logo="https://fanart.tv/fanart/tv/248884/hdtvlogo/the-secret-circle-506b06b58b7a0.png" group-title="ADULTO SIN PUBLICIDA",ADULT| SECRET CIRCLE TV HD
-http://playhispano.org:25461/Eddiepremium/024686420/150639
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| FRENCH LOVER XXX" tvg-logo="http://iptvglobal.site:25461/images/6a8222195a58e1e5a9a13e4304ffad78.png" group-title="ADULTO SIN PUBLICIDA",ADULT| FRENCH LOVER XXX
-http://playhispano.org:25461/Eddiepremium/024686420/150640
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| MILF TV" tvg-logo="http://iptvglobal.site:25461/images/c084fe4e300c918f6f7415f68294934e.png" group-title="ADULTO SIN PUBLICIDA",ADULT| MILF TV
-http://playhispano.org:25461/Eddiepremium/024686420/150641
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| RED XXX" tvg-logo="https://cdn.clipart.email/52f0380e59cb121d92677e4171ca35ff_18-logo-png-3-png-image_796-796.png" group-title="ADULTO SIN PUBLICIDA",ADULT| RED XXX
-http://playhispano.org:25461/Eddiepremium/024686420/150642
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| EXTREME XXX" tvg-logo="http://iptvglobal.site:25461/images/1792f5f05fb19ec4f0970808a798b0fd.png" group-title="ADULTO SIN PUBLICIDA",ADULT| EXTREME XXX
-http://playhispano.org:25461/Eddiepremium/024686420/150643
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| HOT PLEASURE HD" tvg-logo="http://iptvglobal.site:25461/images/2df98782a82b59862d2ca68f39d5624b.png" group-title="ADULTO SIN PUBLICIDA",ADULT| HOT PLEASURE HD
-http://playhispano.org:25461/Eddiepremium/024686420/150644
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| PLAYHOUSE XXX" tvg-logo="https://playhousewindsor.com/wp-content/uploads/2015/08/playhouse-logo.png" group-title="ADULTO SIN PUBLICIDA",ADULT| PLAYHOUSE XXX
-http://playhispano.org:25461/Eddiepremium/024686420/150645
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| NET XXX" tvg-logo="http://iptvglobal.site:25461/images/4fc4d4beeab9520b279aa9179be8eaa0.png" group-title="ADULTO SIN PUBLICIDA",ADULT| NET XXX
-http://playhispano.org:25461/Eddiepremium/024686420/150646
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| BANGERZ XXX" tvg-logo="http://iptvglobal.site:25461/images/c5db3fe60271138224d4f6c2f49d328d.png" group-title="ADULTO SIN PUBLICIDA",ADULT| BANGERZ XXX
-http://playhispano.org:25461/Eddiepremium/024686420/150647
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| BLUE HUSTER TV HD" tvg-logo="http://iptvglobal.site:25461/images/3705faf0ba171087bf459cbb836abfa9.png" group-title="ADULTO SIN PUBLICIDA",ADULT| BLUE HUSTER TV HD
-http://playhispano.org:25461/Eddiepremium/024686420/150648
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| CENTOXCENTO TV HD" tvg-logo="https://stv.ee/uploads/RAWfb7c185bbb4c49a658315c87cca4a5ac.png" group-title="ADULTO SIN PUBLICIDA",ADULT| CENTOXCENTO TV HD
-http://playhispano.org:25461/Eddiepremium/024686420/150650
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| EROX HD" tvg-logo="http://iptvglobal.site:25461/images/1f4a6fc1a973e2aafc797ff4384c3e81.png" group-title="ADULTO SIN PUBLICIDA",ADULT| EROX HD
-http://playhispano.org:25461/Eddiepremium/024686420/150651
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| HUSTLER TV HD" tvg-logo="http://iptvglobal.site:25461/images/5d288b06fbf0dd7e2690ec5191fca874.png" group-title="ADULTO SIN PUBLICIDA",ADULT| HUSTLER TV HD
-http://playhispano.org:25461/Eddiepremium/024686420/150652
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| NUART TV HD" tvg-logo="https://iptv.live/images/logo/channel/crops/1182085019c3b8faa55a2c5e390b655b.png" group-title="ADULTO SIN PUBLICIDA",ADULT| NUART TV HD
-http://playhispano.org:25461/Eddiepremium/024686420/150653
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| PENTHOUSE 2 HD" tvg-logo="http://iptvglobal.site:25461/images/2d1d51ca7dae11c24abeee80bcf9f33a.png" group-title="ADULTO SIN PUBLICIDA",ADULT| PENTHOUSE 2 HD
-http://playhispano.org:25461/Eddiepremium/024686420/150655
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| PENTHOUSE HD" tvg-logo="http://iptvglobal.site:25461/images/2d1d51ca7dae11c24abeee80bcf9f33a.png" group-title="ADULTO SIN PUBLICIDA",ADULT| PENTHOUSE HD
-http://playhispano.org:25461/Eddiepremium/024686420/150656
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| PINKO TV HD" tvg-logo="http://iptvglobal.site:25461/images/1dbaa418b21471b1fd64fc202ce0cde8.png" group-title="ADULTO SIN PUBLICIDA",ADULT| PINKO TV HD
-http://playhispano.org:25461/Eddiepremium/024686420/150657
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| PLAYBOY TV HD" tvg-logo="http://iptvglobal.site:25461/images/3644a684f98ea8fe223c713b77189a77.png" group-title="ADULTO SIN PUBLICIDA",ADULT| PLAYBOY TV HD
-http://playhispano.org:25461/Eddiepremium/024686420/150658
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| PRIVATE TV HD" tvg-logo="https://redlight.tv/wp-content/uploads/2019/01/Logo-Private-HD-1024x724.png" group-title="ADULTO SIN PUBLICIDA",ADULT| PRIVATE TV HD
-http://playhispano.org:25461/Eddiepremium/024686420/150659
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| REDLIGTH HD" tvg-logo="http://iptvglobal.site:25461/images/1ad37b58e5564c5fed37fe92b78e29af.png" group-title="ADULTO SIN PUBLICIDA",ADULT| REDLIGTH HD
-http://playhispano.org:25461/Eddiepremium/024686420/150660
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| SEXTOSENSO TV HD" tvg-logo="http://iptvglobal.site:25461/images/71583c48cfcf4a5b00f5503512632231.png" group-title="ADULTO SIN PUBLICIDA",ADULT| SEXTOSENSO TV HD
-http://playhispano.org:25461/Eddiepremium/024686420/150661
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| VIVIRED HD" tvg-logo="http://iptvglobal.site:25461/images/8f4b4b8d46d1bd7fbcb8d493e5766c5d.png" group-title="ADULTO SIN PUBLICIDA",ADULT| VIVIRED HD
-http://playhispano.org:25461/Eddiepremium/024686420/150662
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| FAT TV 4" tvg-logo="http://iptvglobal.site:25461/images/2fbf4bd92bd951c8756ff5af48b6d9e3.png" group-title="ADULTO SIN PUBLICIDA",ADULT| FAT TV 4
-http://playhispano.org:25461/Eddiepremium/024686420/150663
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| FAT TV 3 HD" tvg-logo="http://iptvglobal.site:25461/images/63d0d564bbb918a75e158649133b8287.png" group-title="ADULTO SIN PUBLICIDA",ADULT| FAT TV 3 HD
-http://playhispano.org:25461/Eddiepremium/024686420/150665
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| BIG DICK HD" tvg-logo="http://iptvglobal.site:25461/images/f2198fd79fecc9c1755fedda893ede2b.png" group-title="ADULTO SIN PUBLICIDA",ADULT| BIG DICK HD
-http://playhispano.org:25461/Eddiepremium/024686420/150666
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| POV HD" tvg-logo="http://iptvglobal.site:25461/images/3e9d6b57297aface1e295fdc63384e1e.png" group-title="ADULTO SIN PUBLICIDA",ADULT| POV HD
-http://playhispano.org:25461/Eddiepremium/024686420/150667
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| LATINA HD" tvg-logo="http://iptvglobal.site:25461/images/f5af37a6e017dbc3f72a43868a200004.png" group-title="ADULTO SIN PUBLICIDA",ADULT| LATINA HD
-http://playhispano.org:25461/Eddiepremium/024686420/150668
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| THREESOME HD" tvg-logo="http://iptvglobal.site:25461/images/3d202d6d3eb027140b839a9e3b0a34f0.png" group-title="ADULTO SIN PUBLICIDA",ADULT| THREESOME HD
-http://playhispano.org:25461/Eddiepremium/024686420/150669
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| CUCKOLD HD" tvg-logo="http://iptvglobal.site:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="ADULTO SIN PUBLICIDA",ADULT| CUCKOLD HD
-http://playhispano.org:25461/Eddiepremium/024686420/150670
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| ANAL HD" tvg-logo="http://iptvglobal.site:25461/images/ecc3a0b23dba864c1748037367857cfe.png" group-title="ADULTO SIN PUBLICIDA",ADULT| ANAL HD
-http://playhispano.org:25461/Eddiepremium/024686420/150671
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| BLONDE HD" tvg-logo="http://iptvglobal.site:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="ADULTO SIN PUBLICIDA",ADULT| BLONDE HD
-http://playhispano.org:25461/Eddiepremium/024686420/150672
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| BRUNETTE HD" tvg-logo="http://iptvglobal.site:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="ADULTO SIN PUBLICIDA",ADULT| BRUNETTE HD
-http://playhispano.org:25461/Eddiepremium/024686420/150673
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| COMPILATION HD" tvg-logo="https://bestsquirtsex.com/wp-content/uploads/2019/07/Best-Squirt-Sex-Logo-2.png" group-title="ADULTO SIN PUBLICIDA",ADULT| COMPILATION HD
-http://playhispano.org:25461/Eddiepremium/024686420/150674
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| ROGH HD" tvg-logo="http://iptvglobal.site:25461/images/2ba2999be9b5fc9eb579b72a5ee336e2.png" group-title="ADULTO SIN PUBLICIDA",ADULT| ROGH HD
-http://playhispano.org:25461/Eddiepremium/024686420/150675
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| MILF HD" tvg-logo="http://iptvglobal.site:25461/images/96d6f2e7e1f705ab5e59c84a6dc009b2.png" group-title="ADULTO SIN PUBLICIDA",ADULT| MILF HD
-http://playhispano.org:25461/Eddiepremium/024686420/150676
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| GANGBANG HD" tvg-logo="https://mediav.porn.com/assets/logos/channels/0/1/1641/200.png" group-title="ADULTO SIN PUBLICIDA",ADULT| GANGBANG HD
-http://playhispano.org:25461/Eddiepremium/024686420/150677
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| CZECH STREET" tvg-logo="http://iptvglobal.site:25461/images/00651480c314f057c0ab5987fff91df5.png" group-title="ADULTO SIN PUBLICIDA",ADULT| CZECH STREET
-http://playhispano.org:25461/Eddiepremium/024686420/150678
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| EXXXOTICA TV HD" tvg-logo="http://iptvglobal.site:25461/images/2ef95bc7aa5e4401cb9a24e7f7eb1771.png" group-title="ADULTO SIN PUBLICIDA",ADULT| EXXXOTICA TV HD
-http://playhispano.org:25461/Eddiepremium/024686420/150680
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| TABOO XXX" tvg-logo="http://iptvglobal.site:25461/images/7866b171451feaba215836b9b2d26a5a.png" group-title="ADULTO SIN PUBLICIDA",ADULT| TABOO XXX
-http://playhispano.org:25461/Eddiepremium/024686420/150681
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| VENUS" tvg-logo="http://iptvglobal.site:25461/images/56df320157aef65231f79b0c1d2a2ad7.png" group-title="ADULTO SIN PUBLICIDA",ADULT| VENUS
-http://playhispano.org:25461/Eddiepremium/024686420/150686
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| SCORELANT 2 HD" tvg-logo="" group-title="ADULTO SIN PUBLICIDA",ADULT| SCORELANT 2 HD
-http://playhispano.org:25461/Eddiepremium/024686420/150688
-#EXTINF:-1 tvg-id="" tvg-name="ADULT| SEXMEX HD" tvg-logo="http://51.81.47.69:8080/videosmiarea/logotransparente.png" group-title="ADULTO SIN PUBLICIDA",ADULT| SEXMEX HD
-http://playhispano.org:25461/Eddiepremium/024686420/150694
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT (FHD) 01 (Solo Eventos)" tvg-logo="https://i.picasion.com/pic92/06645cd4b30a1ac5f105a7d9c1038cc5.gif" group-title="PPV | WIN SPORT (FHD) (Solo Eventos)",WIN SPORT (FHD) 01 (Solo Eventos)
 http://playhispano.org:25461/Eddiepremium/024686420/196112
 #EXTINF:-1 tvg-id="" tvg-name="WIN SPORT (FHD) 02 (Solo Eventos)" tvg-logo="https://i.picasion.com/pic92/06645cd4b30a1ac5f105a7d9c1038cc5.gif" group-title="PPV | WIN SPORT (FHD) (Solo Eventos)",WIN SPORT (FHD) 02 (Solo Eventos)
@@ -1495,20 +1131,6 @@ http://playhispano.org:25461/Eddiepremium/024686420/90162
 http://playhispano.org:25461/Eddiepremium/024686420/90679
 #EXTINF:-1 tvg-id="" tvg-name="SKY-SSTV:Telemundo ORLANDO HD" tvg-logo="https://i.picasion.com/pic92/f882f7cee60c40913e4695cb44472b41.gif" group-title="TV | TELEMUNDO (FHD)",SKY-SSTV:Telemundo ORLANDO HD
 http://playhispano.org:25461/Eddiepremium/024686420/90699
-#EXTINF:-1 tvg-id="" tvg-name="GALAVISION FRESNO" tvg-logo="https://i.picasion.com/pic92/e871f174d00acd5f7facb7c04613118a.gif" group-title="GALAVISION (HD)",GALAVISION FRESNO
-http://playhispano.org:25461/Eddiepremium/024686420/92066
-#EXTINF:-1 tvg-id="" tvg-name="LAT| GALAVISION MIAMI HD" tvg-logo="https://i.picasion.com/pic92/e871f174d00acd5f7facb7c04613118a.gif" group-title="GALAVISION (HD)",LAT| GALAVISION MIAMI HD
-http://playhispano.org:25461/Eddiepremium/024686420/93028
-#EXTINF:-1 tvg-id="" tvg-name="LAT| GALAVISION NEW YORK HD" tvg-logo="https://i.picasion.com/pic92/e871f174d00acd5f7facb7c04613118a.gif" group-title="GALAVISION (HD)",LAT| GALAVISION NEW YORK HD
-http://playhispano.org:25461/Eddiepremium/024686420/93029
-#EXTINF:-1 tvg-id="" tvg-name="LAT| GALAVISION LOS ANGELES HD" tvg-logo="https://i.picasion.com/pic92/e871f174d00acd5f7facb7c04613118a.gif" group-title="GALAVISION (HD)",LAT| GALAVISION LOS ANGELES HD
-http://playhispano.org:25461/Eddiepremium/024686420/93030
-#EXTINF:-1 tvg-id="" tvg-name="LAT| GALAVISION ATLANTA HD" tvg-logo="https://i.picasion.com/pic92/e871f174d00acd5f7facb7c04613118a.gif" group-title="GALAVISION (HD)",LAT| GALAVISION ATLANTA HD
-http://playhispano.org:25461/Eddiepremium/024686420/93031
-#EXTINF:-1 tvg-id="" tvg-name="LAT| GALAVISION HOUSTON HD" tvg-logo="https://i.picasion.com/pic92/e871f174d00acd5f7facb7c04613118a.gif" group-title="GALAVISION (HD)",LAT| GALAVISION HOUSTON HD
-http://playhispano.org:25461/Eddiepremium/024686420/93032
-#EXTINF:-1 tvg-id="" tvg-name="LAT| GALAVISION HD" tvg-logo="https://i.picasion.com/pic92/e871f174d00acd5f7facb7c04613118a.gif" group-title="GALAVISION (HD)",LAT| GALAVISION HD
-http://playhispano.org:25461/Eddiepremium/024686420/93033
 #EXTINF:-1 tvg-id="telemundoktlm.us" tvg-name="USA | Telemundo Rio Grande" tvg-logo="https://i.picasion.com/pic92/03769d9c75300bd24f5ed8d925b90886.gif" group-title="TV | TELEMUNDO (FHD)",USA | Telemundo Rio Grande
 http://playhispano.org:25461/Eddiepremium/024686420/96370
 #EXTINF:-1 tvg-id="" tvg-name="SKY-SSTV:Tlenovelas SD" tvg-logo="https://i.picasion.com/pic92/53197c953d9408edbd6680cc088ac06a.gif" group-title="CANAL DE NOVELAS (HD)",SKY-SSTV:Tlenovelas SD
@@ -1517,20 +1139,6 @@ http://playhispano.org:25461/Eddiepremium/024686420/107051
 http://playhispano.org:25461/Eddiepremium/024686420/107053
 #EXTINF:-1 tvg-id="" tvg-name="MX: Telenovelas" tvg-logo="https://i.picasion.com/pic92/53197c953d9408edbd6680cc088ac06a.gif" group-title="CANAL DE NOVELAS (HD)",MX: Telenovelas
 http://playhispano.org:25461/Eddiepremium/024686420/107056
-#EXTINF:-1 tvg-id="" tvg-name="LAT| GALAVISION LAS VEGAS HD" tvg-logo="https://i.picasion.com/pic92/e871f174d00acd5f7facb7c04613118a.gif" group-title="GALAVISION (HD)",LAT| GALAVISION LAS VEGAS HD
-http://playhispano.org:25461/Eddiepremium/024686420/111804
-#EXTINF:-1 tvg-id="" tvg-name="LAT| GALAVISION PHILADELPHIA HD" tvg-logo="https://i.picasion.com/pic92/e871f174d00acd5f7facb7c04613118a.gif" group-title="GALAVISION (HD)",LAT| GALAVISION PHILADELPHIA HD
-http://playhispano.org:25461/Eddiepremium/024686420/111805
-#EXTINF:-1 tvg-id="" tvg-name="LAT| GALAVISION PHOENIX HD" tvg-logo="https://i.picasion.com/pic92/e871f174d00acd5f7facb7c04613118a.gif" group-title="GALAVISION (HD)",LAT| GALAVISION PHOENIX HD
-http://playhispano.org:25461/Eddiepremium/024686420/111806
-#EXTINF:-1 tvg-id="" tvg-name="LAT| GALAVISION RALEIGTH HD" tvg-logo="https://i.picasion.com/pic92/e871f174d00acd5f7facb7c04613118a.gif" group-title="GALAVISION (HD)",LAT| GALAVISION RALEIGTH HD
-http://playhispano.org:25461/Eddiepremium/024686420/111807
-#EXTINF:-1 tvg-id="" tvg-name="LAT| GALAVISION SACRAMENTO HD" tvg-logo="https://i.picasion.com/pic92/e871f174d00acd5f7facb7c04613118a.gif" group-title="GALAVISION (HD)",LAT| GALAVISION SACRAMENTO HD
-http://playhispano.org:25461/Eddiepremium/024686420/111808
-#EXTINF:-1 tvg-id="" tvg-name="LAT| GALAVISION SAT LAKE HD" tvg-logo="https://i.picasion.com/pic92/e871f174d00acd5f7facb7c04613118a.gif" group-title="GALAVISION (HD)",LAT| GALAVISION SAT LAKE HD
-http://playhispano.org:25461/Eddiepremium/024686420/111809
-#EXTINF:-1 tvg-id="" tvg-name="LAT| GALAVISION SAN ANTONIO HD" tvg-logo="https://i.picasion.com/pic92/e871f174d00acd5f7facb7c04613118a.gif" group-title="GALAVISION (HD)",LAT| GALAVISION SAN ANTONIO HD
-http://playhispano.org:25461/Eddiepremium/024686420/111810
 #EXTINF:-1 tvg-id="" tvg-name="LAT| UNIVISION HD" tvg-logo="https://i.picasion.com/pic92/292807389bffa6ba7d50db10f3e33f63.gif" group-title="TV | UNIVISION (FHD)",LAT| UNIVISION HD
 http://playhispano.org:25461/Eddiepremium/024686420/123903
 #EXTINF:-1 tvg-id="" tvg-name="LAT| UNIVISION MCALLEN TEXAS HD*" tvg-logo="https://i.picasion.com/pic92/292807389bffa6ba7d50db10f3e33f63.gif" group-title="TV | UNIVISION (FHD)",LAT| UNIVISION MCALLEN TEXAS HD*
@@ -1707,16 +1315,6 @@ http://playhispano.org:25461/Eddiepremium/024686420/172082
 http://playhispano.org:25461/Eddiepremium/024686420/172083
 #EXTINF:-1 tvg-id="" tvg-name="UNIVISION NETWORK" tvg-logo="" group-title="TV | UNIVISION (FHD)",UNIVISION NETWORK
 http://playhispano.org:25461/Eddiepremium/024686420/172084
-#EXTINF:-1 tvg-id="unimas13kdos.us" tvg-name="UniMas Arizona" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/univisionnow2/thumbs/channels/19_es.png" group-title="TV | UNIMAS (UHT)",UniMas Arizona
-http://playhispano.org:25461/Eddiepremium/024686420/172085
-#EXTINF:-1 tvg-id="" tvg-name="UniMás  San Francisco" tvg-logo="http://iptvglobal.site:25461/images/3652a1d19f76ee4b278eb6f8fdaa8d7a.jpeg" group-title="TV | UNIMAS (UHT)",UniMás  San Francisco
-http://playhispano.org:25461/Eddiepremium/024686420/172086
-#EXTINF:-1 tvg-id="" tvg-name="UniMÁS West" tvg-logo="http://iptvglobal.site:25461/images/132a2f58814ad3529202979b2ea8db68.jpeg" group-title="TV | UNIMAS (UHT)",UniMÁS West
-http://playhispano.org:25461/Eddiepremium/024686420/172087
-#EXTINF:-1 tvg-id="" tvg-name="UniMÁS East" tvg-logo="http://iptvglobal.site:25461/images/132a2f58814ad3529202979b2ea8db68.jpeg" group-title="TV | UNIMAS (UHT)",UniMÁS East
-http://playhispano.org:25461/Eddiepremium/024686420/172088
-#EXTINF:-1 tvg-id="" tvg-name="UniMás Stockton" tvg-logo="http://iptvglobal.site:25461/images/fb6aeefa373c4afa1a8d3498b9b966d3.jpeg" group-title="TV | UNIMAS (UHT)",UniMás Stockton
-http://playhispano.org:25461/Eddiepremium/024686420/172089
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 52" tvg-logo="" group-title="TV | TELEMUNDO (FHD)",TELEMUNDO 52
 http://playhispano.org:25461/Eddiepremium/024686420/172093
 #EXTINF:-1 tvg-id="" tvg-name="TELEMUNDO 39" tvg-logo="" group-title="TV | TELEMUNDO (FHD)",TELEMUNDO 39
